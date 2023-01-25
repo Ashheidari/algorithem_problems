@@ -1,3 +1,6 @@
+//Array
+//use pointer in array
+
 const removeDuplicates = (nums)=>{
     let k = 0;
     for (let i = 1; i < nums.length; i++){
@@ -6,7 +9,7 @@ const removeDuplicates = (nums)=>{
             nums[k] = nums[i];
         }
     }
-    return k
+    return k+1
 }
 
 
