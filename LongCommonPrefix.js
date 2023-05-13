@@ -1,3 +1,4 @@
+// Array - Horizental char search
 const findLongCommonPrefix = (strs)=>{
 
     let result = "";

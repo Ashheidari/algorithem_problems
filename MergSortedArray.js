@@ -1,3 +1,5 @@
+// Array - use pointer like quickSort
+
 const merge = function(nums1, m, nums2, n) {
 
     let i = m - 1
