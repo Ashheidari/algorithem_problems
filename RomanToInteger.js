@@ -1,4 +1,7 @@
+//String - Array
 
+//use array and dictionary with javascript reduce method 
+//We can also use replace method in string 
 
 
 const romanToInteger =(s)=>{
@@ -10,6 +13,6 @@ const romanToInteger =(s)=>{
 }
 
 
-console.log(romanToInteger('IV'));
+console.log(romanToInteger('IX'));
 
 

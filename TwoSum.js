@@ -1,5 +1,5 @@
-
-
+//HashMap
+//use hashmap, x+y = z => x = z-y
 
 const twoSum = (nums,target)=>{
     const hashMap = new Map()

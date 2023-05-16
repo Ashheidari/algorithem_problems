@@ -1,3 +1,5 @@
+//binary search approach
+
 const mySqrt = function(x) {
     let low = 1;
     let high = x;

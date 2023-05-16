@@ -1,3 +1,6 @@
+//HashMap-STACK
+//use hashmap for open colse parenthese and STACK for LIFO pattern that exist in string
+
 const isValid =(str)=>{
 
    const hashMap= {'(':')', '[':']', '{':'}' }

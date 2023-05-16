@@ -1,4 +1,5 @@
-// Array - Horizental char search
+//Array search
+//comapre char of each array item veritcally with the first item
 const findLongCommonPrefix = (strs)=>{
 
     let result = "";
