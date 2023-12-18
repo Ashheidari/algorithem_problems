@@ -1,3 +1,4 @@
+// Using Set data structure
 const longest_consecutive = (nums)=>{
 
     const set = new Set(nums);
